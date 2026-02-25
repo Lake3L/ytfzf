@@ -1,6 +1,10 @@
 # NOTICE
 
+<<<<<<< HEAD
 This file was edit in README 1111 time; 2222 times; 3333 times.
+=======
+This is edited sting in README 22222 - 33333
+>>>>>>> branch1
 
 ---
 
