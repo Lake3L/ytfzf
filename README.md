@@ -1,6 +1,6 @@
 # NOTICE
 
-This project is no longer actively maintained, it should still work for the foreseeable future
+This file was edit in README 1111 time; 
 
 ---
 
